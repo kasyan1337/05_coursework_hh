@@ -10,6 +10,7 @@ def get_companies_info(company_ids):
     return companies_info
 
 
+
 import psycopg2
 
 

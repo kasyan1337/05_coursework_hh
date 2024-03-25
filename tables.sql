@@ -12,3 +12,4 @@ CREATE TABLE vacancies (
     salary TEXT,
     url TEXT NOT NULL
 );
+
