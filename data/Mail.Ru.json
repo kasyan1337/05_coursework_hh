@@ -1,0 +1,412 @@
+{
+    "items": [
+        {
+            "id": "95049884",
+            "premium": false,
+            "name": "Графический дизайнер middle+",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "2",
+                "name": "Санкт-Петербург",
+                "url": "https://api.hh.ru/areas/2"
+            },
+            "salary": {
+                "from": 90000,
+                "to": null,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Санкт-Петербург",
+                "street": "Московский проспект",
+                "building": "55",
+                "lat": 59.910871,
+                "lng": 30.318006,
+                "description": null,
+                "raw": "Санкт-Петербург, Московский проспект, 55",
+                "metro": {
+                    "station_name": "Технологический институт 1",
+                    "line_name": "Кировско-Выборгская",
+                    "station_id": "14.202",
+                    "line_id": "14",
+                    "lat": 59.916512,
+                    "lng": 30.318485
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Технологический институт 1",
+                        "line_name": "Кировско-Выборгская",
+                        "station_id": "14.202",
+                        "line_id": "14",
+                        "lat": 59.916512,
+                        "lng": 30.318485
+                    },
+                    {
+                        "station_name": "Технологический институт 2",
+                        "line_name": "Московско-Петроградская",
+                        "station_id": "15.219",
+                        "line_id": "15",
+                        "lat": 59.916512,
+                        "lng": 30.318485
+                    },
+                    {
+                        "station_name": "Фрунзенская",
+                        "line_name": "Московско-Петроградская",
+                        "station_id": "15.220",
+                        "line_id": "15",
+                        "lat": 59.906273,
+                        "lng": 30.31745
+                    }
+                ],
+                "id": "696322"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-03-19T12:53:08+0300",
+            "created_at": "2024-03-19T12:53:08+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95049884",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/95049884?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/95049884",
+            "relations": [],
+            "employer": {
+                "id": "1785",
+                "name": "Nimax, digital-агентство",
+                "url": "https://api.hh.ru/employers/1785",
+                "alternate_url": "https://hh.ru/employer/1785",
+                "logo_urls": {
+                    "original": "https://img.hhcdn.ru/employer-logo-original/723570.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/3335372.png",
+                    "240": "https://img.hhcdn.ru/employer-logo/3335373.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1785",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Опыт работы от 2 лет в агентстве или студии. Обязательно наличие портфолио с кейсами по брендингу и айдентике. ",
+                "responsibility": "Создавать концепции визуальной идентификации. Участвовать в штурмах и обсуждениях с командой. Презентовать и защищать результаты работы перед клиентами. "
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "34",
+                    "name": "Дизайнер, художник"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "95569711",
+            "premium": false,
+            "name": "Офис-менеджер",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "26",
+                "name": "Воронеж",
+                "url": "https://api.hh.ru/areas/26"
+            },
+            "salary": {
+                "from": 40000,
+                "to": 40000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Воронеж",
+                "street": "улица Текстильщиков",
+                "building": "7",
+                "lat": 51.686802,
+                "lng": 39.169125,
+                "description": null,
+                "raw": "Воронеж, улица Текстильщиков, 7",
+                "metro": null,
+                "metro_stations": [],
+                "id": "15404239"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-03-26T19:17:48+0300",
+            "created_at": "2024-03-26T19:17:48+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95569711",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/95569711?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/95569711",
+            "relations": [],
+            "employer": {
+                "id": "10905945",
+                "name": "МИГ",
+                "url": "https://api.hh.ru/employers/10905945",
+                "alternate_url": "https://hh.ru/employer/10905945",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10905945",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Уверенный пользователь ПК. Опыт работы с документами от года. Умение работать в 1с.",
+                "responsibility": "...оприходование товара, составления актов сверки взаиморасчетов). Работа в Word и Exel (составление коммерческих предложений, спецификаций). Ведение рабочей почты <highlighttext>компании</highlighttext> (<highlighttext>mail.ru</highlighttext>)."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "88",
+                    "name": "Офис-менеджер"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "94851703",
+            "premium": false,
+            "name": "Младший специалист по информационной безопасности / аудитор - консультант",
+            "department": null,
+            "has_test": true,
+            "response_letter_required": true,
+            "area": {
+                "id": "2",
+                "name": "Санкт-Петербург",
+                "url": "https://api.hh.ru/areas/2"
+            },
+            "salary": {
+                "from": 80000,
+                "to": null,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Санкт-Петербург",
+                "street": "проспект Обуховской Обороны",
+                "building": "271к1",
+                "lat": 59.851019,
+                "lng": 30.478535,
+                "description": null,
+                "raw": "Санкт-Петербург, проспект Обуховской Обороны, 271к1",
+                "metro": {
+                    "station_name": "Обухово",
+                    "line_name": "Невско-Василеостровская",
+                    "station_id": "16.235",
+                    "line_id": "16",
+                    "lat": 59.848709,
+                    "lng": 30.457743
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Обухово",
+                        "line_name": "Невско-Василеостровская",
+                        "station_id": "16.235",
+                        "line_id": "16",
+                        "lat": 59.848709,
+                        "lng": 30.457743
+                    },
+                    {
+                        "station_name": "Пролетарская",
+                        "line_name": "Невско-Василеостровская",
+                        "station_id": "16.234",
+                        "line_id": "16",
+                        "lat": 59.865,
+                        "lng": 30.47
+                    }
+                ],
+                "id": "491498"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-03-27T17:33:37+0300",
+            "created_at": "2024-03-27T17:33:37+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=94851703",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/94851703?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/94851703",
+            "relations": [],
+            "employer": {
+                "id": "1144757",
+                "name": "Дейтерий",
+                "url": "https://api.hh.ru/employers/1144757",
+                "alternate_url": "https://hh.ru/employer/1144757",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/806718.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/806717.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/68216.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1144757",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Консультироваться со старшими коллегами — аудиторами и пентестерами с обширным опытом и международными сертификатами OSCP, SLAE, CISA, PCI QSA, SSF Assessor...",
+                "responsibility": "Плавно войти в профессию. Заработать авторитет в ИБ-сообществе. Изучать и применять ISO 27001, PCI DSS, Secure Software Standard, Secure..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "flexible",
+                "name": "Гибкий график"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "116",
+                    "name": "Специалист по информационной безопасности"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "95061981",
+            "premium": false,
+            "name": "DevOps Engineer",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "79",
+                "name": "Саратов",
+                "url": "https://api.hh.ru/areas/79"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-03-19T14:17:06+0300",
+            "created_at": "2024-03-19T14:17:06+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95061981",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/95061981?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/95061981",
+            "relations": [],
+            "employer": {
+                "id": "1428498",
+                "name": "КингБерд",
+                "url": "https://api.hh.ru/employers/1428498",
+                "alternate_url": "https://hh.ru/employer/1428498",
+                "logo_urls": {
+                    "original": "https://img.hhcdn.ru/employer-logo-original/937590.png",
+                    "240": "https://img.hhcdn.ru/employer-logo/4190905.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/4190904.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1428498",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Высшая квалификация «А+» портала Ruward. Имеет опыт администрирования Linux от 2 лет. Знает TCP/IP. Понимает terraform. Имеет опыт настройки...",
+                "responsibility": "Внедрять devops в разнообразные команды разработки. Мониторить и поддерживать наши сервисы и сервисы наших клиентов. Работал с контейнеризацией(docker, kubernetes)."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "160",
+                    "name": "DevOps-инженер"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        }
+    ],
+    "found": 4,
+    "pages": 1,
+    "page": 0,
+    "per_page": 20,
+    "clusters": null,
+    "arguments": null,
+    "fixes": null,
+    "suggests": null,
+    "alternate_url": "https://hh.ru/search/vacancy?enable_snippets=true&text=%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%3AMail.Ru"
+}

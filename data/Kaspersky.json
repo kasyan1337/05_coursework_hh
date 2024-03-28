@@ -1,0 +1,324 @@
+{
+    "items": [
+        {
+            "id": "88589569",
+            "premium": false,
+            "name": "Ведущий системный администратор",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 150000,
+                "to": 150000,
+                "currency": "RUR",
+                "gross": true
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Москва",
+                "street": "Варшавское шоссе",
+                "building": "133",
+                "lat": 55.604102,
+                "lng": 37.607862,
+                "description": null,
+                "raw": "Москва, Варшавское шоссе, 133",
+                "metro": {
+                    "station_name": "Красный строитель",
+                    "line_name": "МЦД-2",
+                    "station_id": "132.737",
+                    "line_id": "132",
+                    "lat": 55.589455,
+                    "lng": 37.615093
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Красный строитель",
+                        "line_name": "МЦД-2",
+                        "station_id": "132.737",
+                        "line_id": "132",
+                        "lat": 55.589455,
+                        "lng": 37.615093
+                    },
+                    {
+                        "station_name": "Пражская",
+                        "line_name": "Серпуховско-Тимирязевская",
+                        "station_id": "9.116",
+                        "line_id": "9",
+                        "lat": 55.610962,
+                        "lng": 37.602386
+                    },
+                    {
+                        "station_name": "Улица Академика Янгеля",
+                        "line_name": "Серпуховско-Тимирязевская",
+                        "station_id": "9.147",
+                        "line_id": "9",
+                        "lat": 55.596753,
+                        "lng": 37.601498
+                    }
+                ],
+                "id": "6109416"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-03-27T17:14:28+0300",
+            "created_at": "2024-03-27T17:14:28+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=88589569",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/88589569?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/88589569",
+            "relations": [],
+            "employer": {
+                "id": "13820",
+                "name": "АКАДО Телеком",
+                "url": "https://api.hh.ru/employers/13820",
+                "alternate_url": "https://hh.ru/employer/13820",
+                "logo_urls": {
+                    "original": "https://img.hhcdn.ru/employer-logo-original/759451.jpg",
+                    "90": "https://img.hhcdn.ru/employer-logo/3478761.jpeg",
+                    "240": "https://img.hhcdn.ru/employer-logo/3478762.jpeg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=13820",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Администрирование основных ролей Windows Server (ADDS, DNS, DHCP (DHCP Failover), IIS, PRN, FS, DFS, WSUS, KMS). Умение работать с кластерами...",
+                "responsibility": "Администрированием ленточных библиотек HPE. Администрированием и поддержкой продуктов <highlighttext>компании</highlighttext> <highlighttext>Kaspersky</highlighttext> (KSC, KSMG, KWTS). Администрированием системы мониторинга Zabbix в связке с..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "113",
+                    "name": "Системный администратор"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "94525804",
+            "premium": false,
+            "name": "Системный администратор",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Москва",
+                "street": "улица Двинцев",
+                "building": "12к1С",
+                "lat": 55.796582,
+                "lng": 37.600657,
+                "description": null,
+                "raw": "Москва, улица Двинцев, 12к1С",
+                "metro": {
+                    "station_name": "Савёловская",
+                    "line_name": "Серпуховско-Тимирязевская",
+                    "station_id": "9.128",
+                    "line_id": "9",
+                    "lat": 55.794054,
+                    "lng": 37.587163
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Савёловская",
+                        "line_name": "Серпуховско-Тимирязевская",
+                        "station_id": "9.128",
+                        "line_id": "9",
+                        "lat": 55.794054,
+                        "lng": 37.587163
+                    }
+                ],
+                "id": "11451366"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-03-11T13:40:42+0300",
+            "created_at": "2024-03-11T13:40:42+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=94525804",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/94525804?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/94525804",
+            "relations": [],
+            "employer": {
+                "id": "8949973",
+                "name": "ВСМ-СЕРВИС",
+                "url": "https://api.hh.ru/employers/8949973",
+                "alternate_url": "https://hh.ru/employer/8949973",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/5529577.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/5529576.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/977185.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=8949973",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Знание основного антивирусного ПО и умение развернуть внутри большой <highlighttext>компании</highlighttext> (<highlighttext>Kaspersky</highlighttext>, DR.Web и т.д.). Знание основных производителей МФУ и...",
+                "responsibility": "Построение ИТ инфраструктуры с нуля для 16+ офисов с 1000 пользователями. Планирование ИТ мощностей и вычислительных ресурсов для бесперебойного..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "113",
+                    "name": "Системный администратор"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between3And6",
+                "name": "От 3 до 6 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "95031233",
+            "premium": false,
+            "name": "Специалист ИТ поддержки",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "2",
+                "name": "Санкт-Петербург",
+                "url": "https://api.hh.ru/areas/2"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "посёлок Металлострой",
+                "street": "дорога на Металлострой",
+                "building": "3к10",
+                "lat": 59.784852,
+                "lng": 30.547822,
+                "description": null,
+                "raw": "посёлок Металлострой, дорога на Металлострой, 3к10",
+                "metro": null,
+                "metro_stations": [],
+                "id": "13350982"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-03-19T11:32:50+0300",
+            "created_at": "2024-03-19T11:32:50+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95031233",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/95031233?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/95031233",
+            "relations": [],
+            "employer": {
+                "id": "8949973",
+                "name": "ВСМ-СЕРВИС",
+                "url": "https://api.hh.ru/employers/8949973",
+                "alternate_url": "https://hh.ru/employer/8949973",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/5529577.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/5529576.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/977185.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=8949973",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Знание основного антивирусного ПО и понимание как это работает внутри большой <highlighttext>компании</highlighttext> (<highlighttext>Kaspersky</highlighttext>, DR.Web и т.д.). Знание основных производителей...",
+                "responsibility": "Обеспечение функционирования IT инфраструктуры одного из офисов ВСМ-Сервис в депо Санкт-Петербург-Московское (далее – депо Металлострой). Управление ИТ-инфраструктурой..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "113",
+                    "name": "Системный администратор"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        }
+    ],
+    "found": 3,
+    "pages": 1,
+    "page": 0,
+    "per_page": 20,
+    "clusters": null,
+    "arguments": null,
+    "fixes": null,
+    "suggests": null,
+    "alternate_url": "https://hh.ru/search/vacancy?enable_snippets=true&text=%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%3AKaspersky"
+}
