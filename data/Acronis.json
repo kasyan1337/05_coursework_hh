@@ -1,0 +1,173 @@
+{
+    "items": [
+        {
+            "id": "95144387",
+            "premium": false,
+            "name": "Тестировщик программного обеспечения",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 60000,
+                "to": null,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Москва",
+                "street": "Долгопрудненское шоссе",
+                "building": "3",
+                "lat": 55.921612,
+                "lng": 37.534927,
+                "description": null,
+                "raw": "Москва, Долгопрудненское шоссе, 3",
+                "metro": null,
+                "metro_stations": [],
+                "id": "13565213"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-03-26T16:54:31+0300",
+            "created_at": "2024-03-26T16:54:31+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95144387",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/95144387?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/95144387",
+            "relations": [],
+            "employer": {
+                "id": "684668",
+                "name": "Comindware",
+                "url": "https://api.hh.ru/employers/684668",
+                "alternate_url": "https://hh.ru/employer/684668",
+                "logo_urls": {
+                    "original": "https://img.hhcdn.ru/employer-logo-original/678611.png",
+                    "240": "https://img.hhcdn.ru/employer-logo/3155577.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/3155576.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=684668",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Необходимые навыки: Высшее техническое образование. Грамотное, краткое и понятное письменное изложение информации. Знание основ тестирования программного обеспечения. Понимание принципов разработки...",
+                "responsibility": "Международная компания Comindware с офисом в Бостоне (США) и центром разработки в РФ - разработчик принципиально нового веб-решения для автоматизации..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "93341269",
+            "premium": false,
+            "name": "Младший аналитик по внедрению и сопровождению",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 90000,
+                "to": null,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "anonymous",
+                "name": "Анонимная"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-03-13T17:52:42+0300",
+            "created_at": "2024-03-13T17:52:42+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=93341269",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/93341269?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/93341269",
+            "relations": [],
+            "employer": {
+                "name": "Comindware® — российская компания с историей более 10 лет, присутствует на глобальном рынке, разработчик Comindware Business Application Platform",
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Опыт работы бизнес-аналитиком (интервьюирование бизнес-пользователей, составление ТЗ, взаимодействие с командами разработки программных решений) в проектах внедрения (взаимодействие с...",
+                "responsibility": "Участие в проектах внедрения продуктов Comindware в роли инженера-аналитика (составление ТЗ и описание пользовательских сценариев, анализ и настройка моделей..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "10",
+                    "name": "Аналитик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        }
+    ],
+    "found": 2,
+    "pages": 1,
+    "page": 0,
+    "per_page": 20,
+    "clusters": null,
+    "arguments": null,
+    "fixes": null,
+    "suggests": null,
+    "alternate_url": "https://hh.ru/search/vacancy?enable_snippets=true&text=%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%3AAcronis"
+}

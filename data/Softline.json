@@ -1,0 +1,1785 @@
+{
+    "items": [
+        {
+            "id": "95057961",
+            "premium": false,
+            "name": "Менеджер по работе с клиентами (без холодных звонков, удаленно)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 150000,
+                "to": 200000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Москва",
+                "street": "проспект Мира",
+                "building": "16с2",
+                "lat": 55.775297,
+                "lng": 37.632817,
+                "description": null,
+                "raw": "Москва, проспект Мира, 16с2",
+                "metro": {
+                    "station_name": "Проспект Мира",
+                    "line_name": "Кольцевая",
+                    "station_id": "5.119",
+                    "line_id": "5",
+                    "lat": 55.779584,
+                    "lng": 37.633646
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Проспект Мира",
+                        "line_name": "Кольцевая",
+                        "station_id": "5.119",
+                        "line_id": "5",
+                        "lat": 55.779584,
+                        "lng": 37.633646
+                    },
+                    {
+                        "station_name": "Сухаревская",
+                        "line_name": "Калужско-Рижская",
+                        "station_id": "6.137",
+                        "line_id": "6",
+                        "lat": 55.772315,
+                        "lng": 37.63285
+                    }
+                ],
+                "id": "14133260"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-03-19T13:34:27+0300",
+            "created_at": "2024-03-19T13:34:27+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95057961",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/95057961?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/95057961",
+            "relations": [],
+            "employer": {
+                "id": "10255391",
+                "name": "Khalimon Legal",
+                "url": "https://api.hh.ru/employers/10255391",
+                "alternate_url": "https://hh.ru/employer/10255391",
+                "logo_urls": {
+                    "90": "https://img.hhcdn.ru/employer-logo/6240410.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1154989.png",
+                    "240": "https://img.hhcdn.ru/employer-logo/6240411.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10255391",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Имеет опыт в B2B продажах, умеет на равных общаться с первыми лицами компаний. Фокусируется не на процессе, а...",
+                "responsibility": "Продажи новым клиентам. Обрабатываете входящие лиды, полученные по различным каналам, согласовываете встречи с экспертами компании (чаще всего онлайн), двигаете клиента..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "70",
+                    "name": "Менеджер по продажам, менеджер по работе с клиентами"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between3And6",
+                "name": "От 3 до 6 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "95619912",
+            "premium": false,
+            "name": "Junior Solution Sales (Информационная безопасность)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "2",
+                "name": "Санкт-Петербург",
+                "url": "https://api.hh.ru/areas/2"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-03-27T13:48:07+0300",
+            "created_at": "2024-03-27T13:48:07+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95619912",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/95619912?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/95619912",
+            "relations": [],
+            "employer": {
+                "id": "2381",
+                "name": "Softline",
+                "url": "https://api.hh.ru/employers/2381",
+                "alternate_url": "https://hh.ru/employer/2381",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6588666.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/6588665.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1242058.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2381",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Готовы рассматривать кандидатов без опыта работы, выпускников ВУЗов с образованием в области Информационной безопасности, готовностью освоить решения\\продукты по ИБ...",
+                "responsibility": "Формировать предложения для решения задач в области ИБ, которые будут презентованы лицам, принимающим решения, и приведут к заключения сделок на..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "116",
+                    "name": "Специалист по информационной безопасности"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "90855212",
+            "premium": false,
+            "name": "Бизнес-аналитик",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-03-18T08:43:15+0300",
+            "created_at": "2024-03-18T08:43:15+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90855212",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/90855212?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/90855212",
+            "relations": [],
+            "employer": {
+                "id": "2381",
+                "name": "Softline",
+                "url": "https://api.hh.ru/employers/2381",
+                "alternate_url": "https://hh.ru/employer/2381",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6588666.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/6588665.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1242058.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2381",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Опыт в роли бизнес/системного аналитика от 2х лет. Знание графических нотаций описания процессов (BPMN). Понимание принципов документирования бизнес...",
+                "responsibility": "Функциональное моделирование и описание бизнес-процессов «как есть», актуализация нормативно-регламентных документов компании. Выявление требований и описание бизнес-процессов «как..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "10",
+                    "name": "Аналитик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "93471823",
+            "premium": false,
+            "name": "Директор департамента управления проектами",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": null,
+                "street": null,
+                "building": null,
+                "lat": 55.75576800652564,
+                "lng": 37.61767096817494,
+                "description": null,
+                "raw": "Москва, Дербеневская наб. 7 стр.9",
+                "metro": null,
+                "metro_stations": [],
+                "id": "205705"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-02-28T10:50:09+0300",
+            "created_at": "2024-02-28T10:50:09+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=93471823",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/93471823?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/93471823",
+            "relations": [],
+            "employer": {
+                "id": "2381",
+                "name": "Softline",
+                "url": "https://api.hh.ru/employers/2381",
+                "alternate_url": "https://hh.ru/employer/2381",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6588666.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/6588665.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1242058.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2381",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Руководство Проектным Офисом / Департаментом Управления Проектами, от 5 лет в крупных компаниях ИТ-интеграторах РФ. Реализация интеграционных / ИТ проектах, крупных...",
+                "responsibility": "Управление департаментом управления проектами, (2 отдела - 50 человек). Подбор и мотивация персонала, ресурсное планирование. «Играющий тренер», способность вести несколько сложных..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "36",
+                    "name": "Директор по информационным технологиям (CIO)"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "moreThan6",
+                "name": "Более 6 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "94383528",
+            "premium": false,
+            "name": "Юрисконсульт по претензионно-исковой работе",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": null,
+                "street": null,
+                "building": null,
+                "lat": 55.75576800652564,
+                "lng": 37.61767096817494,
+                "description": null,
+                "raw": "Москва, Дербеневская наб. 7 стр.9",
+                "metro": null,
+                "metro_stations": [],
+                "id": "205705"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-03-07T09:36:20+0300",
+            "created_at": "2024-03-07T09:36:20+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=94383528",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/94383528?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/94383528",
+            "relations": [],
+            "employer": {
+                "id": "2381",
+                "name": "Softline",
+                "url": "https://api.hh.ru/employers/2381",
+                "alternate_url": "https://hh.ru/employer/2381",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6588666.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/6588665.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1242058.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2381",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Высшее юридическое образование. Опыт в сфере от 1 года. Наличие навыков по ведению претензионной и исковой работы. Опыт по представлению...",
+                "responsibility": "Работа с входящими претензиями и исками в отношении группы <highlighttext>компаний</highlighttext> <highlighttext>Softline</highlighttext> (включая банкротства контрагентов, споры с потребителями, трудовые споры). "
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "145",
+                    "name": "Юрисконсульт"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "between3And6",
+                "name": "От 3 до 6 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "94785131",
+            "premium": false,
+            "name": "Проектный менеджер / Project Manager (платежное ПО)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "2",
+                "name": "Санкт-Петербург",
+                "url": "https://api.hh.ru/areas/2"
+            },
+            "salary": {
+                "from": 120000,
+                "to": 150000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": null,
+                "street": null,
+                "building": null,
+                "lat": null,
+                "lng": null,
+                "description": null,
+                "raw": null,
+                "metro": {
+                    "station_name": "Московские ворота",
+                    "line_name": "Московско-Петроградская",
+                    "station_id": "15.221",
+                    "line_id": "15",
+                    "lat": 59.891788,
+                    "lng": 30.317873
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Московские ворота",
+                        "line_name": "Московско-Петроградская",
+                        "station_id": "15.221",
+                        "line_id": "15",
+                        "lat": 59.891788,
+                        "lng": 30.317873
+                    }
+                ],
+                "id": "13315751"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-03-14T19:05:42+0300",
+            "created_at": "2024-03-14T19:05:42+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=94785131",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/94785131?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/94785131",
+            "relations": [],
+            "employer": {
+                "id": "2381",
+                "name": "Softline",
+                "url": "https://api.hh.ru/employers/2381",
+                "alternate_url": "https://hh.ru/employer/2381",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6588666.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/6588665.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1242058.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2381",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Опыт работы в проектном офисе от 2х лет. Опыт ведения не менее 3-х проектов одновременно. Знание методологий ведения...",
+                "responsibility": "Управление проектами компании в области создания и поддержки банковского программного обеспечения. Взаимодействие с Заказчиками (разработка функциональных и бизнес-требований, регламентов..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "107",
+                    "name": "Руководитель проектов"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "94183071",
+            "premium": false,
+            "name": "Менеджер по продажам корпоративным клиентам (IT)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "88",
+                "name": "Казань",
+                "url": "https://api.hh.ru/areas/88"
+            },
+            "salary": {
+                "from": 100000,
+                "to": null,
+                "currency": "RUR",
+                "gross": true
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Казань",
+                "street": "Спартаковская улица",
+                "building": "6",
+                "lat": 55.778866,
+                "lng": 49.129573,
+                "description": null,
+                "raw": "Казань, Спартаковская улица, 6",
+                "metro": null,
+                "metro_stations": [],
+                "id": "363823"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-03-04T10:10:23+0300",
+            "created_at": "2024-03-04T10:10:23+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=94183071",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/94183071?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/94183071",
+            "relations": [],
+            "employer": {
+                "id": "2381",
+                "name": "Softline",
+                "url": "https://api.hh.ru/employers/2381",
+                "alternate_url": "https://hh.ru/employer/2381",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6588666.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/6588665.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1242058.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2381",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Успешный опыт корпоративных продаж (телекоммуникация, банки, оборудование, ИТ, услуги) от 1 года. Интерес к ИТ отрасли (экспертизу в ИТ готовы...",
+                "responsibility": "Выполнение ежеквартального и годового плана продаж по выделенному списку клиентов (средний бизнес, с оборотом от 1 млрд руб.). "
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "70",
+                    "name": "Менеджер по продажам, менеджер по работе с клиентами"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "94920551",
+            "premium": false,
+            "name": "Пресейл по информационной безопасности (Solution Sales)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "72",
+                "name": "Пермь",
+                "url": "https://api.hh.ru/areas/72"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-03-18T09:24:47+0300",
+            "created_at": "2024-03-18T09:24:47+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=94920551",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/94920551?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/94920551",
+            "relations": [],
+            "employer": {
+                "id": "2381",
+                "name": "Softline",
+                "url": "https://api.hh.ru/employers/2381",
+                "alternate_url": "https://hh.ru/employer/2381",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6588666.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/6588665.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1242058.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2381",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Опыт в ИБ от 1 года в заказчике/интеграторе/вендоре/дистрибьюторе. Готовность работать с распределенной внутренней командой. Стремление расширять кругозор...",
+                "responsibility": "Формировать предложения для решения задач в области ИБ, которые будут презентованы лицам, принимающим решения, и приведут к заключения сделок на..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "116",
+                    "name": "Специалист по информационной безопасности"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "95688460",
+            "premium": false,
+            "name": "Системный администратор Linux (в офис)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 150000,
+                "to": null,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Москва",
+                "street": "улица Сущёвский Вал",
+                "building": "16с5",
+                "lat": 55.791223,
+                "lng": 37.602705,
+                "description": null,
+                "raw": "Москва, улица Сущёвский Вал, 16с5",
+                "metro": {
+                    "station_name": "Савёловская",
+                    "line_name": "Серпуховско-Тимирязевская",
+                    "station_id": "9.128",
+                    "line_id": "9",
+                    "lat": 55.794054,
+                    "lng": 37.587163
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Савёловская",
+                        "line_name": "Серпуховско-Тимирязевская",
+                        "station_id": "9.128",
+                        "line_id": "9",
+                        "lat": 55.794054,
+                        "lng": 37.587163
+                    }
+                ],
+                "id": "13964736"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-03-28T11:55:25+0300",
+            "created_at": "2024-03-28T11:55:25+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95688460",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/95688460?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/95688460",
+            "relations": [],
+            "employer": {
+                "id": "2381",
+                "name": "Softline",
+                "url": "https://api.hh.ru/employers/2381",
+                "alternate_url": "https://hh.ru/employer/2381",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6588666.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/6588665.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1242058.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2381",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Опыт работы системным администратором от 2 лет. Знание операционных систем linux, windows, понимание как работает OC. Уверенное знание базовых unix...",
+                "responsibility": "Внедрение и поддержка продуктов компании на различных площадках заказчиков. Администрирование собственной внутренней инфраструктуры компании и приложений на стороне Заказчиков. "
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "113",
+                    "name": "Системный администратор"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "93224294",
+            "premium": false,
+            "name": "Специалист контактного центра (без продаж)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "26",
+                "name": "Воронеж",
+                "url": "https://api.hh.ru/areas/26"
+            },
+            "salary": {
+                "from": 35000,
+                "to": 55000,
+                "currency": "RUR",
+                "gross": true
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Воронеж",
+                "street": "Арсенальная",
+                "building": "3",
+                "lat": 51.672684,
+                "lng": 39.170032,
+                "description": null,
+                "raw": "Воронеж, Арсенальная, 3",
+                "metro": null,
+                "metro_stations": [],
+                "id": "9087"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-03-18T08:29:14+0300",
+            "created_at": "2024-03-18T08:29:14+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=93224294",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/93224294?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/93224294",
+            "relations": [],
+            "employer": {
+                "id": "2381",
+                "name": "Softline",
+                "url": "https://api.hh.ru/employers/2381",
+                "alternate_url": "https://hh.ru/employer/2381",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6588666.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/6588665.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1242058.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2381",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Грамотная устная и письменная речь, хорошая дикция. Уверенное пользование ПК (стандартный пакет MS Office).",
+                "responsibility": "Исходящие звонки нашим корпоративным клиентам (без продаж). Внесение информации в базу данных CRM. Приглашение клиентов Компании на семинары и конференции..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "83",
+                    "name": "Оператор call-центра, специалист контактного центра"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "95433357",
+            "premium": false,
+            "name": "Технический инженер отдела продаж (сетевые решения Cisco, Huawei)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-03-25T12:28:38+0300",
+            "created_at": "2024-03-25T12:28:38+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=95433357",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/95433357?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/95433357",
+            "relations": [],
+            "employer": {
+                "id": "2381",
+                "name": "Softline",
+                "url": "https://api.hh.ru/employers/2381",
+                "alternate_url": "https://hh.ru/employer/2381",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6588666.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/6588665.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1242058.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2381",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Знание продуктов и решений на базе этих продуктов (любых): Cisco, Huawei, Eltex, Qtech, Juniper, Aruba, Sofinet, Нерпа, HPE. ",
+                "responsibility": "Техническая поддержка Account Manager, Solution Sales на каждом этапе продажи проекта. Комплексный подход к проработке проектов (сеть). Проектный пресейл (не..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Удаленная работа"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "114",
+                    "name": "Системный инженер"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between3And6",
+                "name": "От 3 до 6 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "94122556",
+            "premium": false,
+            "name": "Пресейл по информационной безопасности (Solutions Sales Manager)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "2",
+                "name": "Санкт-Петербург",
+                "url": "https://api.hh.ru/areas/2"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-03-20T17:21:10+0300",
+            "created_at": "2024-03-20T17:21:10+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=94122556",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/94122556?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/94122556",
+            "relations": [],
+            "employer": {
+                "id": "2381",
+                "name": "Softline",
+                "url": "https://api.hh.ru/employers/2381",
+                "alternate_url": "https://hh.ru/employer/2381",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6588666.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/6588665.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1242058.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2381",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Опыт в ИБ от 1 года в заказчике/интеграторе/вендоре/дистрибьюторе. Готовность работать с распределенной внутренней командой. Стремление расширять кругозор...",
+                "responsibility": "Формировать предложения для решения задач в области ИБ, которые будут презентованы лицам, принимающим решения, и приведут к заключения сделок на..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "116",
+                    "name": "Специалист по информационной безопасности"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "90688649",
+            "premium": false,
+            "name": "Менеджер по продажам и развитию корпоративных клиентов",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "76",
+                "name": "Ростов-на-Дону",
+                "url": "https://api.hh.ru/areas/76"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-03-04T10:20:09+0300",
+            "created_at": "2024-03-04T10:20:09+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90688649",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/90688649?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/90688649",
+            "relations": [],
+            "employer": {
+                "id": "2381",
+                "name": "Softline",
+                "url": "https://api.hh.ru/employers/2381",
+                "alternate_url": "https://hh.ru/employer/2381",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6588666.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/6588665.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1242058.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2381",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Опыт проектных продаж. Успешный опыт в B2B продажах от 1 года. Сильные коммуникативные навыки, успешные бизнес-коммуникации с...",
+                "responsibility": "Выполнение ежеквартального и годового плана продаж по списку клиентов (работа с аккаунт листом). Продажи программного обеспечения, оборудования, облачных услуг, услуг..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "70",
+                    "name": "Менеджер по продажам, менеджер по работе с клиентами"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "93787888",
+            "premium": false,
+            "name": "Инженер по нагрузочному тестированию / Load QA engineer",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "96",
+                "name": "Ижевск",
+                "url": "https://api.hh.ru/areas/96"
+            },
+            "salary": {
+                "from": 150000,
+                "to": null,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-03-15T18:42:27+0300",
+            "created_at": "2024-03-15T18:42:27+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=93787888",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/93787888?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/93787888",
+            "relations": [],
+            "employer": {
+                "id": "6189",
+                "name": "Bell Integrator",
+                "url": "https://api.hh.ru/employers/6189",
+                "alternate_url": "https://hh.ru/employer/6189",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/787767.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/787766.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/230939.gif"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6189",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Опыт нагрузочного тестирования программного обеспечения - от 1,5 лет. Опыт разработки скриптов НТ с помощью JMETER. Опыт разработки заглушек/эмуляторов...",
+                "responsibility": "Разработка и актуализация скриптов НТ с помощью JMETER. Разработка заглушек/эмуляторов (Java). Анализ результатов, локализации и описание проблем производительности. "
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "93155042",
+            "premium": false,
+            "name": "Менеджер по развитию бизнеса ИБ",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": null,
+                "street": null,
+                "building": null,
+                "lat": 55.75576800652564,
+                "lng": 37.61767096817494,
+                "description": null,
+                "raw": "Москва, Дербеневская наб. 7 стр.9",
+                "metro": null,
+                "metro_stations": [],
+                "id": "205705"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-03-11T09:36:22+0300",
+            "created_at": "2024-03-11T09:36:22+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=93155042",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/93155042?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/93155042",
+            "relations": [],
+            "employer": {
+                "id": "2381",
+                "name": "Softline",
+                "url": "https://api.hh.ru/employers/2381",
+                "alternate_url": "https://hh.ru/employer/2381",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6588666.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/6588665.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1242058.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2381",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Опыт активных продаж в IT-отрасли, понимание рынка, знание направления информационной безопасности. Коммуникативные навыки, грамотная письменная и устная речь, навыки...",
+                "responsibility": "Поддержание регулярных контактов с менеджерами и техническими специалистами вендоров. Взаимодействие с командой менеджеров <highlighttext>Компании</highlighttext> <highlighttext>Softline</highlighttext>, совместная работа по проектам. "
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "71",
+                    "name": "Менеджер по работе с партнерами"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "93336536",
+            "premium": false,
+            "name": "Менеджер по продажам в государственном сегменте (B2G)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "66",
+                "name": "Нижний Новгород",
+                "url": "https://api.hh.ru/areas/66"
+            },
+            "salary": {
+                "from": 100000,
+                "to": null,
+                "currency": "RUR",
+                "gross": true
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Нижний Новгород",
+                "street": "Новая улица",
+                "building": "28",
+                "lat": 56.312285,
+                "lng": 43.993644,
+                "description": null,
+                "raw": "Нижний Новгород, Новая улица, 28",
+                "metro": null,
+                "metro_stations": [],
+                "id": "364108"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-03-12T12:11:07+0300",
+            "created_at": "2024-03-12T12:11:07+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=93336536",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/93336536?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/93336536",
+            "relations": [],
+            "employer": {
+                "id": "2381",
+                "name": "Softline",
+                "url": "https://api.hh.ru/employers/2381",
+                "alternate_url": "https://hh.ru/employer/2381",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6588666.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/6588665.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1242058.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2381",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Успешный опыт работы с государственными организациями B2G (понимание специфики работы с заказчиками гос. сектора) или опыт успешных продаж...",
+                "responsibility": "Выстраивание долговременных, доверительных и лояльных отношений с ключевыми заказчиками (заказчики государственного сегмента) без поиска клиентов. Прямые продажи комплексных инфраструктурных ИТ..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "70",
+                    "name": "Менеджер по продажам, менеджер по работе с клиентами"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between3And6",
+                "name": "От 3 до 6 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "93787863",
+            "premium": false,
+            "name": "Инженер по нагрузочному тестированию / Load QA engineer",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": null,
+                "to": 260000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-03-15T18:42:27+0300",
+            "created_at": "2024-03-15T18:42:27+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=93787863",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/93787863?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/93787863",
+            "relations": [],
+            "employer": {
+                "id": "6189",
+                "name": "Bell Integrator",
+                "url": "https://api.hh.ru/employers/6189",
+                "alternate_url": "https://hh.ru/employer/6189",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/787767.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/787766.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/230939.gif"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6189",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Опыт нагрузочного тестирования программного обеспечения - от 1,5 лет. Опыт разработки скриптов НТ с помощью JMETER. Опыт разработки заглушек/эмуляторов...",
+                "responsibility": "Разработка и актуализация скриптов НТ с помощью JMETER. Разработка заглушек/эмуляторов (Java). Анализ результатов, локализации и описание проблем производительности. "
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "92602886",
+            "premium": false,
+            "name": "Ведущий системный инженер",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": null,
+                "street": null,
+                "building": null,
+                "lat": 55.75576800652564,
+                "lng": 37.61767096817494,
+                "description": null,
+                "raw": "Москва, Дербеневская наб. 7 стр.9",
+                "metro": null,
+                "metro_stations": [],
+                "id": "205705"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-03-25T09:53:41+0300",
+            "created_at": "2024-03-25T09:53:41+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=92602886",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/92602886?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/92602886",
+            "relations": [],
+            "employer": {
+                "id": "2381",
+                "name": "Softline",
+                "url": "https://api.hh.ru/employers/2381",
+                "alternate_url": "https://hh.ru/employer/2381",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6588666.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/6588665.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1242058.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2381",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Расширенные знания Network Skills (Работа сети на уровнях L2-L3, протоколы маршрутизации OSPF/EIGRP/BGP, технологии DMVPN/IPSEC...",
+                "responsibility": "Принимает решения по обращениям экспертного уровня от других сотрудников ТП и клиентов. Проводит аудит сетевой инфраструктуры клиентов. Участвует в разборах..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "114",
+                    "name": "Системный инженер"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between3And6",
+                "name": "От 3 до 6 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "94393517",
+            "premium": false,
+            "name": "Менеджер по продажам решений SOICA",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-03-28T11:56:22+0300",
+            "created_at": "2024-03-28T11:56:22+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=94393517",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/94393517?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/94393517",
+            "relations": [],
+            "employer": {
+                "id": "10610846",
+                "name": "SL Soft",
+                "url": "https://api.hh.ru/employers/10610846",
+                "alternate_url": "https://hh.ru/employer/10610846",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10610846",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Успешный опыт продаж сложных, не коробочных IT-решений (CRM/ERP, системы IT безопасности, экспертных систем). Опыт работы с крупными коммерческими...",
+                "responsibility": "Достижение плановых финансовых показателей. Продажа лицензий на программную платформу, а так же услуг по ее внедрению (полный цикл работы - от..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "70",
+                    "name": "Менеджер по продажам, менеджер по работе с клиентами"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between3And6",
+                "name": "От 3 до 6 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "94189926",
+            "premium": false,
+            "name": "Менеджер по развитию бизнеса решений 1С",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": null,
+                "street": null,
+                "building": null,
+                "lat": 55.75576800652564,
+                "lng": 37.61767096817494,
+                "description": null,
+                "raw": "Москва, Дербеневская наб. 7 стр.9",
+                "metro": null,
+                "metro_stations": [],
+                "id": "205705"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-03-26T12:26:56+0300",
+            "created_at": "2024-03-26T12:26:56+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=94189926",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/94189926?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/94189926",
+            "relations": [],
+            "employer": {
+                "id": "2381",
+                "name": "Softline",
+                "url": "https://api.hh.ru/employers/2381",
+                "alternate_url": "https://hh.ru/employer/2381",
+                "logo_urls": {
+                    "240": "https://img.hhcdn.ru/employer-logo/6588666.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/6588665.png",
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1242058.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2381",
+                "accredited_it_employer": true,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Опыт работы в продажах решений 1С. Опыт работы с продуктами на платформе 1С. Навыки ведения переговоров.",
+                "responsibility": "Активный поиск и привлечение новых клиентов в секторе b2b. Выстраивание взаимодействия с новыми клиентами, поиск и реализация идей..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "70",
+                    "name": "Менеджер по продажам, менеджер по работе с клиентами"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        }
+    ],
+    "found": 21,
+    "pages": 2,
+    "page": 0,
+    "per_page": 20,
+    "clusters": null,
+    "arguments": null,
+    "fixes": null,
+    "suggests": null,
+    "alternate_url": "https://hh.ru/search/vacancy?enable_snippets=true&text=%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%3ASoftline"
+}

@@ -5,7 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
-
+main.py
+postgre_table.sql
+tables.sql
 
 # Distribution / packaging
 .Python
