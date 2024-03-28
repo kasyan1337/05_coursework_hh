@@ -7,7 +7,7 @@ __pycache__/
 *.so
 main.py
 postgre_table.sql
-
+tables.sql
 
 # Distribution / packaging
 .Python
