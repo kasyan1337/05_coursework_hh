@@ -5,8 +5,7 @@ import functions
 
 # Use environment variables to load database connection params
 conn_params = {
-    # 'dbname': os.getenv('DB_NAME'),
-    'dbname': 'headhunter_vacancies',  # Updated database name
+    'dbname': os.getenv('DB_NAME'),
     'user': os.getenv('DB_USER'),
     'password': os.getenv('DB_PASSWORD'),
     'host': os.getenv('DB_HOST'),
