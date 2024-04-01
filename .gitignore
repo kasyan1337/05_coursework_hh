@@ -8,6 +8,7 @@ __pycache__/
 main.py
 postgre_table.sql
 tables.sql
+test.py
 
 # Distribution / packaging
 .Python
