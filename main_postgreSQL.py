@@ -5,8 +5,7 @@ import functions
 
 # Use environment variables to load database connection params
 conn_params = {
-    # 'dbname': os.getenv('DB_NAME'),
-    'dbname': 'headhunter_vacancies',  # Updated database name
+    'dbname': os.getenv('DB_NAME'),
     'user': os.getenv('DB_USER'),
     'password': os.getenv('DB_PASSWORD'),
     'host': os.getenv('DB_HOST'),
@@ -25,7 +24,7 @@ for company in russian_it_companies_default:
 # Preparing environment for using the DBManager and filtering vacancies
 db_manager = DBManager.DBManager(conn_params)
 
-# DBManager usage
+# DBManager example usage
 with DBManager.DBManager(conn_params) as manager:
     # print(manager.get_companies_and_vacancies_count()) # Showing vacancies and counting them by company
     # print(manager.get_all_vacancies()) # Showing all vacancies test
